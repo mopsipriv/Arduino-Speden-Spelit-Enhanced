@@ -39,3 +39,6 @@ We went beyond the standard requirements by implementing:
 * `lcd.cpp`: LCD menu and scrolling highscore engine.
 * `leds.cpp/h`: LED animations and binary display.
 * `spedenpelitmusiikki.cpp`: Musical sequences and sound effects.
+
+## 📺 Project Demonstration
+https://youtube.com/shorts/h9VYuUSVIP8?feature=share
